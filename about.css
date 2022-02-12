@@ -1,0 +1,173 @@
+body{
+    background-image: url("black.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    list-style: none;
+    text-decoration: none;
+}
+header{
+    text-align: center;
+    margin-top: 50px;
+}
+img{
+    width: 20%;
+    height: 20%;
+    margin-left: 10px;
+}
+h2{
+    font-size: 40px;
+    color: white;
+    font-weight: 700;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    width: 30%;
+    height: 30%;
+    margin-top: 20px;
+    margin-left: 415px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style-type: none;
+}
+nav ul li a{
+    text-decoration: none;
+    padding-right: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+nav ul li a:hover{
+    cursor: pointer;
+    color: yellowgreen;
+}
+.main{
+    text-align: center;
+    margin-top: 50px;
+}
+h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h6{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 500;
+}
+.pictures{
+    text-align: center;
+    margin-top: 10px;
+}
+img{
+    height: 30%;
+    width: 30%;
+    border-radius: 30px;
+    padding: 8px;
+}
+h5{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.bore{
+    text-align: center;
+}
+.bore1{
+    width: 90%;
+    border-radius: 10px;
+    background: yellowgreen;
+    padding: 20px;
+    color: black;
+    margin-left: 50px;
+    margin-bottom: -5px;
+}
+.bore2{
+    width: 90%;
+    border-radius: 10px;
+    background: yellowgreen;
+    padding: 20px;
+    color: black;
+    margin-left: 50px;
+    margin-bottom: -5px;
+}
+.bore3{
+    width: 90%;
+    border-radius: 10px;
+    background: yellowgreen;
+    padding: 20px;
+    color: black;
+    margin-left: 50px;
+    margin-bottom: -5px;
+}
+.bore4{
+    width: 90%;
+    border-radius: 10px;
+    background: yellowgreen;
+    padding: 20px;
+    color: black;
+    margin-left: 50px;
+    margin-bottom: -5px;
+}
+h3{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+p{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spotify{
+        text-align: center;
+        margin-top: 30px;
+}
+iframe{
+    border-radius: 30px;
+    padding-left: 10px;
+}
+.me{
+    text-align: center;
+    margin-top: 50px;
+}
+.me a{
+    text-decoration: none;
+    color: yellowgreen;
+    font-size: 15px;
+    font-weight: bold;
+}
+.last{
+    text-align: center;
+    color: yellowgreen;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.last a{
+    text-decoration: none;
+    color: yellowgreen;
+    font-size: 15px;
+    font-weight: bold;
+}
+.last a:hover{
+    cursor: pointer;
+    color: white;
+}
